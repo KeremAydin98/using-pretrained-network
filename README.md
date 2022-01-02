@@ -27,8 +27,8 @@ https://www.kaggle.com/moltean/fruits
 
 Validation accuracies:
 
-* VGG16: 0.9435
-* ResNet50: 0.6155
-* Xception: 0.9137
+* VGG16: 0.9611
+* ResNet50: 0.6518
+* Xception: 0.9005
 
 It can clearly be seen that VGG16 and Xception architectures were superior against the ResNet architecture with this dataset.
