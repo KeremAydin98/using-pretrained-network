@@ -31,4 +31,4 @@ Validation accuracies:
 * ResNet50: 0.6518
 * Xception: 0.9005
 
-It can clearly be seen that VGG16 and Xception architectures were superior against the ResNet architecture with this dataset.
+It can clearly be seen that VGG16 and Xception architectures were superior against the ResNet architecture in this dataset.
